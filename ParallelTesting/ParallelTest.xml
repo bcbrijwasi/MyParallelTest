@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" >
+ 	<listeners>
+		<listener class-name="com.parallel.listner.ParallelReporter" />
+	</listeners>
+	<test name="Test1">	       
+	<parameter name="testName" value="tst1" />
+<!-- 		<parameter name="deviceName_" value="device"/> -->
+<!-- 		<parameter name="UDID_" value="320811e8c9b07163"/> -->
+<!-- 		<parameter name="platformVersion_" value="Version_One"/> -->
+<!-- 		<parameter name="URL_" value="127.0.0.1:1234/wd/hub"/> -->
+		<classes>
+			<class name="com.parallel.testParallel.Test1"/>
+		</classes>
+	</test>
+	<test name="Test2">
+	<parameter name="testName" value="tst2" />
+<!-- 		<parameter name="deviceName_" value="device"/> -->
+<!-- 		<parameter name="UDID_" value="0715f74213114032"/> -->
+<!-- 		<parameter name="platformVersion_" value="Version_Two"/> -->
+<!-- 		<parameter name="URL_" value="127.0.0.1:3456/wd/hub"/> -->
+		<classes>
+			<class name="com.parallel.testParallel1.Test2"/>
+		</classes>
+	</test>
+</suite> 

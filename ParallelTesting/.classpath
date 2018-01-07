@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_131"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-2.53.0/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="E:/appium_java_client/java-client-2.1.0.jar" sourcepath="C:/Users/Admin/.m2/repository/io/appium/java-client/2.1.0/java-client-2.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/MDC/slf4j/slf4j-1.7.25/integration/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/MDC/slf4j/slf4j-1.7.25/integration/lib/slf4j-api-1.5.11.jar"/>
+	<classpathentry kind="lib" path="E:/MDC/slf4j/slf4j-1.7.25/integration/lib/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="E:/MDC/slf4j/slf4j-1.7.25/integration/lib/slf4j-api-1.6.99.jar"/>
+	<classpathentry kind="lib" path="E:/MDC/slf4j/slf4j-1.7.25/integration/lib/slf4j-api-2.0.99.jar"/>
+	<classpathentry kind="lib" path="E:/MDC/slf4j/slf4j-1.7.25/integration/lib/slf4j-nop-1.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/MDC/slf4j/slf4j-1.7.25/integration/lib/slf4j-simple-1.4.2.jar"/>
+	<classpathentry kind="lib" path="E:/MDC/slf4j/slf4j-1.7.25/integration/lib/slf4j-simple-1.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/MDC/slf4j/slf4j-1.7.25/integration/lib/slf4j-simple-1.5.11.jar"/>
+	<classpathentry kind="lib" path="E:/MDC/slf4j/slf4j-1.7.25/integration/lib/slf4j-simple-1.6.6.jar"/>
+	<classpathentry kind="lib" path="E:/MDC/slf4j/slf4j-1.7.25/integration/lib/slf4j-simple-1.6.99.jar"/>
+	<classpathentry kind="lib" path="E:/selenium/extentreports-2.41.1.jar"/>
+	<classpathentry kind="lib" path="E:/selenium/freemarker-2.2.8/lib/freemarker.jar"/>
+	<classpathentry kind="lib" path="E:/selenium/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/appium_java_client/java-client-5.0.0-BETA6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
